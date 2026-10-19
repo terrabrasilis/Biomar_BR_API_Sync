@@ -1,0 +1,5 @@
+{
+    "logger_level": "DEBUG",
+    "smtp_config": "smtp_default",
+    "output_connection": "BIOMAS_BR_REQUESTS_OUTPUT_CONNECTION_DB"
+}
